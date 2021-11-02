@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/car_sale-project/static/css/main.a617e044.chunk.css",
+    "main.js": "/car_sale-project/static/js/main.96ffb0c1.chunk.js",
+    "main.js.map": "/car_sale-project/static/js/main.96ffb0c1.chunk.js.map",
+    "runtime-main.js": "/car_sale-project/static/js/runtime-main.f09606a3.js",
+    "runtime-main.js.map": "/car_sale-project/static/js/runtime-main.f09606a3.js.map",
+    "static/js/2.8785af0b.chunk.js": "/car_sale-project/static/js/2.8785af0b.chunk.js",
+    "static/js/2.8785af0b.chunk.js.map": "/car_sale-project/static/js/2.8785af0b.chunk.js.map",
+    "static/js/3.5880c402.chunk.js": "/car_sale-project/static/js/3.5880c402.chunk.js",
+    "static/js/3.5880c402.chunk.js.map": "/car_sale-project/static/js/3.5880c402.chunk.js.map",
+    "index.html": "/car_sale-project/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/car_sale-project/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8785af0b.chunk.js.LICENSE.txt": "/car_sale-project/static/js/2.8785af0b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/car_sale-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f09606a3.js",
+    "static/js/2.8785af0b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.96ffb0c1.chunk.js"
+  ]
+}
